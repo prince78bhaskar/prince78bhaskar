@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prince78bhaskar
+- 👋 Hi, I’m @Prince bhaskar
 - 👀 I’m interested in ...web development, graphics designers,editor,gamers ,hacking 
 - 🌱 I’m currently learning ...web development, graphics designers,hacking
 - 💞️ I’m looking to collaborate on ...web development, graphics designers,hacking

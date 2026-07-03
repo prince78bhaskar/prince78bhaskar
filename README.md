@@ -205,11 +205,15 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince78bhaskar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com?user=prince78bhaskar&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince78bhaskar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 

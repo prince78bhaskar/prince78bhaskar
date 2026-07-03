@@ -2,18 +2,21 @@
 <!---
 prince78bhaskar/prince78bhaskar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Prince</h1>
 
 <h3 align="center">MERN Stack Developer | BCA Student | Passionate Web Developer</h3>
 
-<img align="right" alt="Coding" width="350" <img
-  align="right"
-  alt="Hacker Coding"
-  width="380"
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVsa2JmamhjM3UwMnA3bzZ5MzJpejN3c2wxajlxdGNtYXp6djR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"
-/>>
+<img align="right" alt="Hacker Coding" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVsa2JmamhjM3UwMnA3bzZ5MzJpejN3c2wxajlxdGNtYXp6djR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
+## 🚀 About Me
+
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
+- 🌱 Currently Learning **MERN Stack & DSA**
+- 💻 Passionate about Full Stack Web Development
+- 🚀 Building Real World Projects
+- 📫 Reach me at **your@email.com**
+
+<br clear="right"/>
 ## 🚀 About Me
 
 - 🎓 Pursuing **Bachelor of Computer Applications (BCA)**

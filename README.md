@@ -23,7 +23,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">MERN Stack Developer | BCA Student | Passionate Web Developer</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVsa2JmamhjM3UwMnA3bzZ5MzJpejN3c2wxajlxdGNtYXp6djR6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="GIF 1"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNyNm0xNmRkbHQzamhuMW9lZ2dqcW52dXd4bTJyeDJycm1wZDEwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" alt="GIF 2"/>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1aG94Z3VnOHpheWI4aWNpcGRtNGo0aG5pa3JsMHBnczlzZWU0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/836HiJc7pgzy8iNXCn/giphy.gif" width="300" alt="GIF 3"/>
 </p>

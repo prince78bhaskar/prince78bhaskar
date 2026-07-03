@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 You can click the Preview link to take a look at your changes.
 -->
+<p align="center">
+  <img src="github.png" alt="Prince Bhaskar Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Prince</h1>
 
 <h3 align="center">MERN Stack Developer | BCA Student | Passionate Web Developer</h3>

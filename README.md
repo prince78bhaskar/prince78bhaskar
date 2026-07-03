@@ -24,8 +24,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Currently Learning **MERN Stack & DSA**
 - 💻 Passionate about Full Stack Web Development
 - 🚀 Building Real World Projects
-- 📫 Reach me at **your@email.com**
-
+- 📫 Reach me at  ✉ bhaskarprince78@gmail.com
 ---
 
 ## 🌐 Portfolio

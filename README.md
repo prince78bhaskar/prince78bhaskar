@@ -34,30 +34,71 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Tech Stack
 
-### Frontend
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+<b>HTML5</b>
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+<b>CSS3</b>
+</td>
 
-### Backend
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<b>JavaScript</b>
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
+<b>React</b>
+</td>
 
-### Database
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+<b>Tailwind CSS</b>
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
+<b>Node.js</b>
+</td>
+</tr>
 
-### Tools
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>
+<b>Express.js</b>
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
----
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>
+<b>Postman</b>
+</td>
+</tr>
+</table>
 
 ## 🚀 Languages & Tools
 

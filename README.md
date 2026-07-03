@@ -93,9 +93,41 @@ You can click the Preview link to take a look at your changes.
 <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
 <b>MongoDB</b>
 </td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+<b>MySQL</b>
+</td>
 </tr>
 </table>
 
+---
+
+### ☕ Programming Languages
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
+<b>C++</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br>
+<b>C</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<b>JavaScript</b>
+</td>
+</tr>
+</table>
 ---
 
 ### 🛠️ Tools

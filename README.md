@@ -45,7 +45,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌐 Connect with Me
-## 🌐 Connect with Me
 
 <p align="left">
 
@@ -206,14 +205,11 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince78bhaskar&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
   <img src="https://streak-stats.demolab.com?user=prince78bhaskar&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince78bhaskar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 

@@ -36,29 +36,34 @@ You can click the Preview link to take a look at your changes.
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 ### Backend
 
-- Node.js
-- Express.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### Database
 
-- MongoDB
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Postman
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 ---
+
+## 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
 
 ## 📊 GitHub Stats
 

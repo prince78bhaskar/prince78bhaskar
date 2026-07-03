@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 Tech Stack
 
+### 🎨 Frontend
+
 <table>
 <tr>
 <td align="center" width="120">
@@ -60,24 +62,46 @@ You can click the Preview link to take a look at your changes.
 <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
 <b>Tailwind CSS</b>
 </td>
+</tr>
+</table>
 
+---
+
+### ⚙️ Backend
+
+<table>
+<tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>
 <b>Node.js</b>
 </td>
-</tr>
 
-<tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=express" width="48"/><br>
 <b>Express.js</b>
 </td>
+</tr>
+</table>
 
+---
+
+### 🍃 Database
+
+<table>
+<tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
 <b>MongoDB</b>
 </td>
+</tr>
+</table>
 
+---
+
+### 🛠️ Tools
+
+<table>
+<tr>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>
 <b>Git</b>
